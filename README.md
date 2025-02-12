@@ -3,7 +3,7 @@ Name: Md: Habibul Bashar
 ID: 2215151046
 Sec: 7(A2)
 
-Uni: University of information technology and sciences 
+University: University of information technology and sciences 
 Course: Simulation and Modeling Lab
 
 Course Code: CSE 413
